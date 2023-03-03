@@ -1,2 +1,7 @@
 # CSV-Viewer
-Project of 2nd semester Software Development
+Project of Software Development
+
+Simple CSV Viewer made on javafx.
+The user can load a dataset and display the statistics on a chart.
+
+
